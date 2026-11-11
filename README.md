@@ -1,1 +1,0 @@
-# wows_replay_creator
