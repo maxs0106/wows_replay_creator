@@ -1,0 +1,249 @@
+time,player,ship,x,y,event,target,damage,team,hp,detail
+0,Player_A,Split,0.0,0.0,position,,0,Blue,100,位置情報
+0,Player_B,Yamato,-10.8,-8.0,position,,0,Blue,100,位置情報
+0,Player_C,Des Moines,30.4,18.0,position,,0,Red,100,位置情報
+0,Player_D,Shimakaze,21.6,-20.0,position,,0,Red,100,位置情報
+10,Player_A,Split,0.16666666666666666,0.13333333333333333,position,,0,Blue,100,位置情報
+10,Player_B,Yamato,-10.633333333333335,-8.083333333333334,position,,0,Blue,100,位置情報
+10,Player_C,Des Moines,30.266666666666666,18.133333333333333,position,,0,Red,100,位置情報
+10,Player_D,Shimakaze,21.46666666666667,-20.083333333333332,position,,0,Red,100,位置情報
+20,Player_A,Split,0.3333333333333333,0.26666666666666666,position,,0,Blue,100,位置情報
+20,Player_B,Yamato,-10.466666666666667,-8.166666666666666,position,,0,Blue,100,位置情報
+20,Player_C,Des Moines,30.133333333333333,18.266666666666666,position,,0,Red,100,位置情報
+20,Player_D,Shimakaze,21.333333333333336,-20.166666666666668,position,,0,Red,100,位置情報
+30,Player_A,Split,0.5,0.4,position,,0,Blue,100,位置情報
+30,Player_B,Yamato,-10.3,-8.25,position,,0,Blue,100,位置情報
+30,Player_C,Des Moines,30.0,18.4,position,,0,Red,100,位置情報
+30,Player_D,Shimakaze,21.200000000000003,-20.25,position,,0,Red,100,位置情報
+40,Player_A,Split,0.6666666666666666,0.5333333333333333,position,,0,Blue,100,位置情報
+40,Player_B,Yamato,-10.133333333333335,-8.333333333333334,position,,0,Blue,100,位置情報
+40,Player_C,Des Moines,29.866666666666664,18.533333333333335,position,,0,Red,100,位置情報
+40,Player_D,Shimakaze,21.066666666666663,-20.333333333333332,position,,0,Red,100,位置情報
+50,Player_A,Split,0.8333333333333333,0.6666666666666666,position,,0,Blue,100,位置情報
+50,Player_B,Yamato,-9.966666666666667,-8.416666666666666,position,,0,Blue,100,位置情報
+50,Player_C,Des Moines,29.73333333333333,18.666666666666668,position,,0,Red,100,位置情報
+50,Player_D,Shimakaze,20.93333333333333,-20.416666666666668,position,,0,Red,100,位置情報
+60,Player_A,Split,1.0,0.8,position,,0,Blue,100,位置情報
+60,Player_B,Yamato,-9.8,-8.5,position,,0,Blue,100,位置情報
+60,Player_C,Des Moines,29.599999999999998,18.8,position,,0,Red,100,位置情報
+60,Player_D,Shimakaze,20.799999999999997,-20.5,position,,0,Red,100,位置情報
+70,Player_A,Split,1.1666666666666667,0.9333333333333333,position,,0,Blue,100,位置情報
+70,Player_B,Yamato,-9.633333333333335,-8.583333333333334,position,,0,Blue,100,位置情報
+70,Player_C,Des Moines,29.466666666666665,18.933333333333334,position,,0,Red,100,位置情報
+70,Player_D,Shimakaze,20.666666666666664,-20.583333333333332,position,,0,Red,100,位置情報
+80,Player_A,Split,1.3333333333333333,1.0666666666666667,position,,0,Blue,100,位置情報
+80,Player_B,Yamato,-9.466666666666667,-8.666666666666666,position,,0,Blue,100,位置情報
+80,Player_C,Des Moines,29.333333333333332,19.066666666666666,position,,0,Red,100,位置情報
+80,Player_D,Shimakaze,20.53333333333333,-20.666666666666668,position,,0,Red,100,位置情報
+90,Player_A,Split,1.5,1.2,position,,0,Blue,100,位置情報
+90,Player_B,Yamato,-9.3,-8.75,position,,0,Blue,100,位置情報
+90,Player_C,Des Moines,29.2,19.2,position,,0,Red,100,位置情報
+90,Player_D,Shimakaze,20.4,-20.75,position,,0,Red,100,位置情報
+100,Player_A,Split,1.6666666666666665,1.3333333333333333,position,,0,Blue,100,位置情報
+100,Player_B,Yamato,-9.133333333333335,-8.833333333333334,position,,0,Blue,100,位置情報
+100,Player_C,Des Moines,29.066666666666666,19.333333333333332,position,,0,Red,100,位置情報
+100,Player_D,Shimakaze,20.266666666666666,-20.833333333333332,position,,0,Red,100,位置情報
+110,Player_A,Split,1.8333333333333333,1.4666666666666666,position,,0,Blue,100,位置情報
+110,Player_B,Yamato,-8.966666666666667,-8.916666666666666,position,,0,Blue,100,位置情報
+110,Player_C,Des Moines,28.933333333333334,19.466666666666665,position,,0,Red,100,位置情報
+110,Player_D,Shimakaze,20.133333333333333,-20.916666666666668,position,,0,Red,100,位置情報
+120,Player_A,Split,2.0,1.6,position,,0,Blue,100,位置情報
+120,Player_B,Yamato,-8.8,-9.0,position,,0,Blue,100,位置情報
+120,Player_C,Des Moines,28.799999999999997,19.6,position,,0,Red,100,位置情報
+120,Player_D,Shimakaze,20.0,-21.0,position,,0,Red,100,位置情報
+125,Player_A,Split,3.0,4.0,shot,Player_C,0,Blue,100,主砲発射
+128,Player_A,Split,3.0,4.0,hit,Player_C,4200,Blue,100,命中
+130,Player_A,Split,2.166666666666667,1.7333333333333334,position,,0,Blue,100,位置情報
+130,Player_B,Yamato,-8.633333333333333,-9.083333333333334,position,,0,Blue,100,位置情報
+130,Player_C,Des Moines,28.666666666666664,19.733333333333334,position,,0,Red,100,位置情報
+130,Player_D,Shimakaze,19.866666666666667,-21.083333333333332,position,,0,Red,100,位置情報
+140,Player_A,Split,2.3333333333333335,1.8666666666666667,position,,0,Blue,100,位置情報
+140,Player_B,Yamato,-8.466666666666667,-9.166666666666666,position,,0,Blue,100,位置情報
+140,Player_C,Des Moines,28.53333333333333,19.866666666666667,position,,0,Red,100,位置情報
+140,Player_D,Shimakaze,19.733333333333334,-21.166666666666668,position,,0,Red,100,位置情報
+150,Player_A,Split,2.5,2.0,position,,0,Blue,100,位置情報
+150,Player_B,Yamato,-8.3,-9.25,position,,0,Blue,100,位置情報
+150,Player_C,Des Moines,28.4,20.0,position,,0,Red,100,位置情報
+150,Player_D,Shimakaze,19.6,-21.25,position,,0,Red,100,位置情報
+160,Player_A,Split,2.6666666666666665,2.1333333333333333,position,,0,Blue,100,位置情報
+160,Player_B,Yamato,-8.133333333333335,-9.333333333333334,position,,0,Blue,100,位置情報
+160,Player_C,Des Moines,28.266666666666666,20.133333333333333,position,,0,Red,100,位置情報
+160,Player_D,Shimakaze,19.46666666666667,-21.333333333333332,position,,0,Red,100,位置情報
+170,Player_A,Split,2.833333333333333,2.2666666666666666,position,,0,Blue,100,位置情報
+170,Player_B,Yamato,-7.966666666666668,-9.416666666666666,position,,0,Blue,100,位置情報
+170,Player_C,Des Moines,28.133333333333333,20.266666666666666,position,,0,Red,100,位置情報
+170,Player_D,Shimakaze,19.333333333333336,-21.416666666666668,position,,0,Red,100,位置情報
+180,Player_A,Split,3.0,2.4,position,,0,Blue,100,位置情報
+180,Player_B,Yamato,-7.8,-9.5,position,,0,Blue,100,位置情報
+180,Player_C,Des Moines,28.0,20.4,position,,0,Red,100,位置情報
+180,Player_D,Shimakaze,19.2,-21.5,position,,0,Red,100,位置情報
+190,Player_A,Split,3.1666666666666665,2.533333333333333,position,,0,Blue,100,位置情報
+190,Player_B,Yamato,-7.633333333333334,-9.583333333333334,position,,0,Blue,100,位置情報
+190,Player_C,Des Moines,27.866666666666667,20.53333333333333,position,,0,Red,100,位置情報
+190,Player_D,Shimakaze,19.066666666666666,-21.583333333333332,position,,0,Red,100,位置情報
+200,Player_A,Split,3.333333333333333,2.6666666666666665,position,,0,Blue,100,位置情報
+200,Player_B,Yamato,-7.466666666666668,-9.666666666666666,position,,0,Blue,100,位置情報
+200,Player_C,Des Moines,27.73333333333333,20.666666666666668,position,,0,Red,100,位置情報
+200,Player_D,Shimakaze,18.933333333333334,-21.666666666666668,position,,0,Red,100,位置情報
+210,Player_A,Split,3.5,2.8,position,,0,Blue,100,位置情報
+210,Player_B,Yamato,-7.3,-9.75,position,,0,Blue,100,位置情報
+210,Player_C,Des Moines,27.599999999999998,20.8,position,,0,Red,100,位置情報
+210,Player_D,Shimakaze,18.799999999999997,-21.75,position,,0,Red,100,位置情報
+220,Player_A,Split,3.6666666666666665,2.933333333333333,position,,0,Blue,100,位置情報
+220,Player_B,Yamato,-7.133333333333334,-9.833333333333334,position,,0,Blue,100,位置情報
+220,Player_C,Des Moines,27.466666666666665,20.933333333333334,position,,0,Red,100,位置情報
+220,Player_D,Shimakaze,18.666666666666664,-21.833333333333332,position,,0,Red,100,位置情報
+230,Player_A,Split,3.8333333333333335,3.066666666666667,position,,0,Blue,100,位置情報
+230,Player_B,Yamato,-6.966666666666666,-9.916666666666666,position,,0,Blue,100,位置情報
+230,Player_C,Des Moines,27.333333333333332,21.066666666666666,position,,0,Red,100,位置情報
+230,Player_D,Shimakaze,18.53333333333333,-21.916666666666668,position,,0,Red,100,位置情報
+240,Player_A,Split,4.0,3.2,position,,0,Blue,100,位置情報
+240,Player_B,Yamato,-6.8,-10.0,position,,0,Blue,100,位置情報
+240,Player_C,Des Moines,27.2,21.2,position,,0,Red,100,位置情報
+240,Player_D,Shimakaze,15.0,-17.0,torpedo_hit,Player_B,9800,Red,100,魚雷命中
+240,Player_D,Shimakaze,18.4,-22.0,position,,0,Red,100,位置情報
+250,Player_A,Split,4.166666666666667,3.3333333333333335,position,,0,Blue,100,位置情報
+250,Player_C,Des Moines,27.066666666666666,21.333333333333332,position,,0,Red,100,位置情報
+250,Player_B,Yamato,-6.633333333333333,-10.083333333333334,position,,0,Blue,100,位置情報
+250,Player_D,Shimakaze,18.266666666666666,-22.083333333333332,position,,0,Red,100,位置情報
+260,Player_A,Split,4.333333333333334,3.466666666666667,position,,0,Blue,100,位置情報
+260,Player_C,Des Moines,26.93333333333333,21.46666666666667,position,,0,Red,100,位置情報
+260,Player_B,Yamato,-6.466666666666666,-10.166666666666668,position,,0,Blue,100,位置情報
+260,Player_D,Shimakaze,18.133333333333333,-22.166666666666668,position,,0,Red,100,位置情報
+270,Player_A,Split,4.5,3.6,position,,0,Blue,100,位置情報
+270,Player_C,Des Moines,26.799999999999997,21.6,position,,0,Red,100,位置情報
+270,Player_B,Yamato,-6.3,-10.25,position,,0,Blue,100,位置情報
+270,Player_D,Shimakaze,18.0,-22.25,position,,0,Red,100,位置情報
+280,Player_A,Split,4.666666666666667,3.7333333333333334,position,,0,Blue,100,位置情報
+280,Player_C,Des Moines,26.666666666666664,21.733333333333334,position,,0,Red,100,位置情報
+280,Player_B,Yamato,-6.133333333333333,-10.333333333333334,position,,0,Blue,100,位置情報
+280,Player_D,Shimakaze,17.866666666666667,-22.333333333333332,position,,0,Red,100,位置情報
+290,Player_A,Split,4.833333333333333,3.8666666666666667,position,,0,Blue,100,位置情報
+290,Player_C,Des Moines,26.53333333333333,21.866666666666667,position,,0,Red,100,位置情報
+290,Player_B,Yamato,-5.966666666666667,-10.416666666666666,position,,0,Blue,100,位置情報
+290,Player_D,Shimakaze,17.733333333333334,-22.416666666666668,position,,0,Red,100,位置情報
+300,Player_A,Split,5.0,4.0,position,,0,Blue,100,位置情報
+300,Player_C,Des Moines,26.4,22.0,position,,0,Red,100,位置情報
+300,Player_B,Yamato,-5.8,-10.5,position,,0,Blue,100,位置情報
+300,Player_D,Shimakaze,17.6,-22.5,position,,0,Red,100,位置情報
+310,Player_A,Split,5.166666666666667,4.133333333333334,position,,0,Blue,100,位置情報
+310,Player_D,Shimakaze,17.46666666666667,-22.583333333333332,position,,0,Red,100,位置情報
+310,Player_C,Des Moines,26.266666666666666,22.133333333333333,position,,0,Red,100,位置情報
+310,Player_B,Yamato,-5.633333333333333,-10.583333333333334,position,,0,Blue,100,位置情報
+320,Player_A,Split,5.333333333333333,4.266666666666667,position,,0,Blue,100,位置情報
+320,Player_C,Des Moines,26.133333333333333,22.266666666666666,position,,0,Red,100,位置情報
+320,Player_B,Yamato,-5.466666666666667,-10.666666666666666,position,,0,Blue,100,位置情報
+320,Player_D,Shimakaze,17.333333333333336,-22.666666666666668,position,,0,Red,100,位置情報
+330,Player_A,Split,5.5,4.4,position,,0,Blue,100,位置情報
+330,Player_C,Des Moines,26.0,22.4,position,,0,Red,100,位置情報
+330,Player_B,Yamato,-5.3,-10.75,position,,0,Blue,100,位置情報
+330,Player_D,Shimakaze,17.2,-22.75,position,,0,Red,100,位置情報
+340,Player_A,Split,5.666666666666666,4.533333333333333,position,,0,Blue,100,位置情報
+340,Player_C,Des Moines,25.866666666666667,22.53333333333333,position,,0,Red,100,位置情報
+340,Player_B,Yamato,-5.133333333333334,-10.833333333333332,position,,0,Blue,100,位置情報
+340,Player_D,Shimakaze,17.066666666666666,-22.833333333333332,position,,0,Red,100,位置情報
+350,Player_A,Split,5.833333333333334,4.666666666666667,position,,0,Blue,100,位置情報
+350,Player_C,Des Moines,25.73333333333333,22.666666666666668,position,,0,Red,100,位置情報
+350,Player_B,Yamato,-4.966666666666666,-10.916666666666668,position,,0,Blue,100,位置情報
+350,Player_D,Shimakaze,16.93333333333333,-22.916666666666668,position,,0,Red,100,位置情報
+360,Player_A,Split,6.0,4.8,position,,0,Blue,100,位置情報
+360,Player_C,Des Moines,25.599999999999998,22.8,position,,0,Red,100,位置情報
+360,Player_B,Yamato,-4.8,-11.0,position,,0,Blue,100,位置情報
+360,Player_D,Shimakaze,16.799999999999997,-23.0,position,,0,Red,100,位置情報
+370,Player_A,Split,6.166666666666667,4.933333333333334,position,,0,Blue,100,位置情報
+370,Player_C,Des Moines,25.466666666666665,22.933333333333334,position,,0,Red,100,位置情報
+370,Player_B,Yamato,-4.633333333333333,-11.083333333333334,position,,0,Blue,100,位置情報
+370,Player_D,Shimakaze,16.666666666666664,-23.083333333333332,position,,0,Red,100,位置情報
+380,Player_A,Split,6.333333333333333,5.066666666666666,position,,0,Blue,100,位置情報
+380,Player_C,Des Moines,25.333333333333332,23.066666666666666,position,,0,Red,100,位置情報
+380,Player_B,Yamato,-4.466666666666667,-11.166666666666666,position,,0,Blue,100,位置情報
+380,Player_D,Shimakaze,16.53333333333333,-23.166666666666668,position,,0,Red,100,位置情報
+390,Player_A,Split,6.5,5.2,position,,0,Blue,100,位置情報
+390,Player_C,Des Moines,25.2,23.2,position,,0,Red,100,位置情報
+390,Player_B,Yamato,-4.3,-11.25,position,,0,Blue,100,位置情報
+390,Player_D,Shimakaze,16.4,-23.25,position,,0,Red,100,位置情報
+400,Player_A,Split,6.666666666666666,5.333333333333333,position,,0,Blue,100,位置情報
+400,Player_C,Des Moines,25.066666666666666,23.333333333333332,position,,0,Red,100,位置情報
+400,Player_B,Yamato,-4.133333333333334,-11.333333333333332,position,,0,Blue,100,位置情報
+400,Player_D,Shimakaze,16.266666666666666,-23.333333333333332,position,,0,Red,100,位置情報
+410,Player_A,Split,6.833333333333334,5.466666666666667,position,,0,Blue,100,位置情報
+410,Player_B,Yamato,-4.0,-2.0,sink,Player_D,0,Blue,0,撃沈
+410,Player_B,Yamato,-3.966666666666666,-11.416666666666668,position,,0,Blue,100,位置情報
+410,Player_C,Des Moines,24.93333333333333,23.46666666666667,position,,0,Red,100,位置情報
+410,Player_D,Shimakaze,16.133333333333333,-23.416666666666668,position,,0,Red,100,位置情報
+420,Player_A,Split,7.0,5.6,position,,0,Blue,100,位置情報
+420,Player_B,Yamato,-3.8,-11.5,position,,0,Blue,100,位置情報
+420,Player_C,Des Moines,24.799999999999997,23.6,position,,0,Red,100,位置情報
+420,Player_D,Shimakaze,16.0,-23.5,position,,0,Red,100,位置情報
+430,Player_A,Split,7.166666666666667,5.733333333333333,position,,0,Blue,100,位置情報
+430,Player_B,Yamato,-3.633333333333333,-11.583333333333334,position,,0,Blue,100,位置情報
+430,Player_C,Des Moines,24.666666666666664,23.733333333333334,position,,0,Red,100,位置情報
+430,Player_D,Shimakaze,15.866666666666665,-23.583333333333332,position,,0,Red,100,位置情報
+440,Player_A,Split,7.333333333333333,5.866666666666666,position,,0,Blue,100,位置情報
+440,Player_B,Yamato,-3.466666666666667,-11.666666666666666,position,,0,Blue,100,位置情報
+440,Player_C,Des Moines,24.53333333333333,23.866666666666667,position,,0,Red,100,位置情報
+440,Player_D,Shimakaze,15.733333333333333,-23.666666666666668,position,,0,Red,100,位置情報
+450,Player_A,Split,7.5,6.0,position,,0,Blue,100,位置情報
+450,Player_B,Yamato,-3.3,-11.75,position,,0,Blue,100,位置情報
+450,Player_C,Des Moines,24.4,24.0,position,,0,Red,100,位置情報
+450,Player_D,Shimakaze,15.6,-23.75,position,,0,Red,100,位置情報
+460,Player_A,Split,7.666666666666667,6.133333333333334,position,,0,Blue,100,位置情報
+460,Player_B,Yamato,-3.133333333333333,-11.833333333333334,position,,0,Blue,100,位置情報
+460,Player_C,Des Moines,24.266666666666666,24.133333333333333,position,,0,Red,100,位置情報
+460,Player_D,Shimakaze,15.466666666666667,-23.833333333333332,position,,0,Red,100,位置情報
+470,Player_D,Shimakaze,15.333333333333334,-23.916666666666668,position,,0,Red,100,位置情報
+470,Player_C,Des Moines,24.133333333333333,24.266666666666666,position,,0,Red,100,位置情報
+470,Player_B,Yamato,-2.966666666666667,-11.916666666666666,position,,0,Blue,100,位置情報
+470,Player_A,Split,7.833333333333333,6.266666666666667,position,,0,Blue,100,位置情報
+480,Player_A,Split,8.0,6.4,position,,0,Blue,100,位置情報
+480,Player_B,Yamato,-2.8,-12.0,position,,0,Blue,100,位置情報
+480,Player_C,Des Moines,24.0,24.4,position,,0,Red,100,位置情報
+480,Player_D,Shimakaze,15.2,-24.0,position,,0,Red,100,位置情報
+490,Player_A,Split,8.166666666666666,6.533333333333333,position,,0,Blue,100,位置情報
+490,Player_B,Yamato,-2.6333333333333337,-12.083333333333332,position,,0,Blue,100,位置情報
+490,Player_C,Des Moines,23.866666666666667,24.53333333333333,position,,0,Red,100,位置情報
+490,Player_D,Shimakaze,15.066666666666666,-24.083333333333332,position,,0,Red,100,位置情報
+500,Player_A,Split,8.333333333333334,6.666666666666667,position,,0,Blue,100,位置情報
+500,Player_B,Yamato,-2.466666666666666,-12.166666666666668,position,,0,Blue,100,位置情報
+500,Player_C,Des Moines,23.73333333333333,24.666666666666668,position,,0,Red,100,位置情報
+500,Player_D,Shimakaze,14.933333333333332,-24.166666666666668,position,,0,Red,100,位置情報
+510,Player_A,Split,8.5,6.8,position,,0,Blue,100,位置情報
+510,Player_B,Yamato,-2.3,-12.25,position,,0,Blue,100,位置情報
+510,Player_C,Des Moines,23.599999999999998,24.8,position,,0,Red,100,位置情報
+510,Player_D,Shimakaze,14.799999999999999,-24.25,position,,0,Red,100,位置情報
+520,Player_A,Split,8.666666666666668,6.933333333333334,position,,0,Blue,100,位置情報
+520,Player_B,Yamato,-2.133333333333332,-12.333333333333334,position,,0,Blue,100,位置情報
+520,Player_C,Des Moines,23.466666666666665,24.933333333333334,position,,0,Red,100,位置情報
+520,Player_D,Shimakaze,14.666666666666666,-24.333333333333336,position,,0,Red,100,位置情報
+530,Player_A,Split,8.833333333333332,7.066666666666666,position,,0,Blue,100,位置情報
+530,Player_B,Yamato,-1.966666666666668,-12.416666666666666,position,,0,Blue,100,位置情報
+530,Player_C,Des Moines,23.333333333333332,25.066666666666666,position,,0,Red,100,位置情報
+530,Player_D,Shimakaze,14.533333333333333,-24.416666666666664,position,,0,Red,100,位置情報
+540,Player_A,Split,9.0,7.2,position,,0,Blue,100,位置情報
+540,Player_B,Yamato,-1.8,-12.5,position,,0,Blue,100,位置情報
+540,Player_C,Des Moines,23.2,25.2,position,,0,Red,100,位置情報
+540,Player_D,Shimakaze,14.4,-24.5,position,,0,Red,100,位置情報
+550,Player_D,Shimakaze,14.266666666666667,-24.583333333333332,position,,0,Red,100,位置情報
+550,Player_C,Des Moines,23.066666666666666,25.333333333333332,position,,0,Red,100,位置情報
+550,Player_B,Yamato,-1.633333333333334,-12.583333333333332,position,,0,Blue,100,位置情報
+550,Player_A,Split,9.166666666666666,7.333333333333333,position,,0,Blue,100,位置情報
+560,Player_A,Split,9.333333333333334,7.466666666666667,position,,0,Blue,100,位置情報
+560,Player_B,Yamato,-1.4666666666666661,-12.666666666666668,position,,0,Blue,100,位置情報
+560,Player_C,Des Moines,22.93333333333333,25.46666666666667,position,,0,Red,100,位置情報
+560,Player_D,Shimakaze,14.133333333333333,-24.666666666666668,position,,0,Red,100,位置情報
+570,Player_A,Split,9.5,7.6,position,,0,Blue,100,位置情報
+570,Player_B,Yamato,-1.3,-12.75,position,,0,Blue,100,位置情報
+570,Player_C,Des Moines,22.799999999999997,25.6,position,,0,Red,100,位置情報
+570,Player_D,Shimakaze,14.0,-24.75,position,,0,Red,100,位置情報
+580,Player_A,Split,9.666666666666666,7.733333333333333,position,,0,Blue,100,位置情報
+580,Player_B,Yamato,-1.133333333333334,-12.833333333333332,position,,0,Blue,100,位置情報
+580,Player_C,Des Moines,22.666666666666664,25.733333333333334,position,,0,Red,100,位置情報
+580,Player_D,Shimakaze,13.866666666666665,-24.833333333333332,position,,0,Red,100,位置情報
+590,Player_D,Shimakaze,13.733333333333333,-24.916666666666664,position,,0,Red,100,位置情報
+590,Player_C,Des Moines,22.53333333333333,25.866666666666667,position,,0,Red,100,位置情報
+590,Player_B,Yamato,-0.9666666666666679,-12.916666666666666,position,,0,Blue,100,位置情報
+590,Player_A,Split,9.833333333333332,7.866666666666666,position,,0,Blue,100,位置情報
+600,Player_D,Shimakaze,13.6,-25.0,position,,0,Red,100,位置情報
+600,Player_C,Des Moines,22.4,26.0,position,,0,Red,100,位置情報
+600,Player_B,Yamato,-0.8,-13.0,position,,0,Blue,100,位置情報
+600,Player_A,Split,10.0,8.0,position,,0,Blue,100,位置情報
